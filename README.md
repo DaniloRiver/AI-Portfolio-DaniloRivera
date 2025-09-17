@@ -10,6 +10,6 @@ Este repositorio contiene mis proyectos de Machine Learning, Deep Learning y mod
 4. [Detector de fraude en facturación electrónica](Proyecto04_Detector_Fraude_Facturacion/README.md)
 5. [Chatbot hospitalario](Proyecto05_Chatbot_Hospitalario/README.md)
 6. [Segmentacion Marketing](Proyecto06_Segmentacion_Marketing/)
-7. [Prediccion abandono](Proyecto07_Prediccion_Abandono_Telecomunicaciones/)
+7. [Prediccion abandono](Proyecto07_Predicción_análisis_abandono_clientes_empresa_telecomunicaciones/)
 8. Otros proyectos generativos y GIS (detalles en carpetas individuales)
 
