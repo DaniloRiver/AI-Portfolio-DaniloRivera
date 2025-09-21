@@ -11,5 +11,7 @@ Este repositorio contiene mis proyectos de Machine Learning, Deep Learning y mod
 5. [Chatbot hospitalario](Proyecto05_Chatbot_Hospitalario/README.md)
 6. [Segmentacion Marketing](Proyecto06_Segmentacion_Marketing/)
 7. [Prediccion abandono](Proyecto07_Predicción_análisis_abandono_clientes_empresa_telecomunicaciones/)
-8. Otros proyectos generativos y GIS (detalles en carpetas individuales)
+8. [Prediccion segmentacion_clientes](Proyecto09_Segmentación_Clientes_Bancarios/)
+9. Otros proyectos generativos y GIS (detalles en carpetas individuales)
 
+Proyecto09_Segmentación_Clientes_Bancarios
