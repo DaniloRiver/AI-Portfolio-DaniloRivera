@@ -14,4 +14,4 @@ Este repositorio contiene mis proyectos de Machine Learning, Deep Learning y mod
 8. [Prediccion segmentacion_clientes](Proyecto09_Segmentación_Clientes_Bancarios/)
 9. Otros proyectos generativos y GIS (detalles en carpetas individuales)
 
-Proyecto09_Segmentación_Clientes_Bancarios
+
