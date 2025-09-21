@@ -1,0 +1,47 @@
+# Entorno virtual
+venv/
+.env/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+data/*.csv
+data/*.xlsx
+
+# Modelos
+models/*.pkl
+models/*.h5
+
+# Logs
+*.log
+
+# Configuración local
+.env
+config.yaml
+secrets.json
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

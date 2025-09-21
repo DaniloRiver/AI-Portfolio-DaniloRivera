@@ -1,0 +1,4 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,output,timestamp
+Female,0,Yes,No,12,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,75.95,910.2,,2025-09-17 15:14:32.305809
+Female,0,Yes,No,12,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,75.95,910.2,,2025-09-17 15:14:45.553515
+,0,,,0,,,,,,,,,,,,,0,0,,2025-09-17 15:15:23.269249
